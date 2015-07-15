@@ -9,4 +9,4 @@
 
 ##III.
 ![Окно результата для задания 1.2]
-http://cs623317.vk.me/v623317271/38fa8/qbiOieJnqRI.jpg
+(http://cs623317.vk.me/v623317271/38fa8/qbiOieJnqRI.jpg)
